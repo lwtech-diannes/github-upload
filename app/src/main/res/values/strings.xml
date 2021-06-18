@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LoanIt2</string>
+    <string name="editTxt_item">Enter item name w/ brief description</string>
+    <string name="editTxt_bwrName">Enter name of borrower</string>
+    <string name="add_loan">add loan</string>
+    <string name="save">save</string>
+    <string name="button_reset">reset</string>
+    <string name="button_remove">remove</string>
+
+    <!-- Remove Loan Fragment -->
+    <string name="loan_to_remove">Remove Loan</string>
+    <string name="remove_loan">Remove</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Menu -->
+    <string name="main_menu">Menu</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_exit">Exit</string>
+
+    <!-- Sub Menu -->
+    <string name="Exit">Exit</string>
+    <string name="Exit_message">Are you sure?</string>
+    <string name="Alert_Yes">Yes, please exit.</string>
+    <string name="Alert_No">No, I\'ll stay.</string>
+    <string name="menu_ok">OK</string>
+    <string name="title_instructions">Instructions</string>
+    <string name="info_message">This app helps you keep track of items you\'ve loaned out. Enter in the item, a brief description and the name of who borrowed it. It\'s easy and very useful!</string>
+
+</resources>
